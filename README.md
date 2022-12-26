@@ -11,3 +11,12 @@
     
     python util.py
 
+- - -
+
+описание проекта: <http://127.0.0.1:8000/docs>
+
+/items/
+/stores/
+/sales/
+/stores/top/
+/items/top/
