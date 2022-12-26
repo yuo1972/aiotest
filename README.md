@@ -15,8 +15,15 @@
 
 описание проекта: <http://127.0.0.1:8000/docs>
 
-/items/
-/stores/
-/sales/
-/stores/top/
-/items/top/
+допустимые запросы:
+
+**/items/** - (GET) получить список товаров
+
+**/stores/**
+
+**/sales/**
+
+**/stores/top/**
+
+**/items/top/**
+
